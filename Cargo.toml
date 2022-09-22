@@ -1,0 +1,10 @@
+[package]
+name = "rblx"
+version = "0.0.0"
+edition = "2021"
+description = "Roblox, rusty."
+documentation = "https://docs.rs/rblx"
+repository = "https://github.com/7ap/rblx"
+license = "MIT"
+
+[dependencies]
